@@ -1,0 +1,4 @@
+https://www.linkedin.com/pulse/data-science-test-driven-development-sam-savage/
+http://engineering.pivotal.io/post/test-driven-development-for-data-science/
+https://medium.com/uk-hydrographic-office/test-driven-development-is-essential-for-good-data-science-heres-why-db7975a03a44
+https://docs.python-guide.org/writing/tests/
